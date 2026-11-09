@@ -26,3 +26,16 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+# Secrets and local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+service-account*.json
+token.json
+secrets/
