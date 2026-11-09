@@ -1,30 +1,24 @@
-# PWApractica1
+# Vue PWA Example
 
-This template should help get you started developing with Vue 3 in Vite.
+A small Progressive Web App learning project built with Vue 3 and Vite.
 
-## Recommended IDE Setup
+## Technologies
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+Vue 3, Vite, JavaScript, HTML, and CSS.
 
-## Customize configuration
+## Run locally
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Build
 
-```sh
+```bash
 npm run build
 ```
-"# PWAejemplo" 
+
+## Notes
+
+This repository is preserved as a learning example. Local credentials and environment files are intentionally excluded from version control.
